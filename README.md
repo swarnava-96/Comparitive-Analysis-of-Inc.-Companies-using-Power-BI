@@ -43,6 +43,16 @@ highest revenue compared to other industries.
 8. Finally, a table showing name, industry, founded, city, workers, Rev_final, growth% were displayed to give an overall
 insight. Web Url's of respective companies were also added.
 
+## Installation
+
+The following steps will guide you to install Power BI Desktop and run the project at your local machine:
+
+1. Download and install Power Bi Desktop from [here](https://www.microsoft.com/en-in/p/power-bi-desktop/9ntxr16hnw1t#activetab=pivot:overviewtab).
+2. Clone this github repository or download as zip.
+3. Once Everything is done, open the .pbix file. 
+
+If you already have Power BI Desktop, then you can skip the first step.
+
 ### A Glimpse of the Dashboard:
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/75041273/133970780-226a7d2b-3ccb-4625-b293-bc20b36ffb1e.png)
