@@ -43,6 +43,11 @@ highest revenue compared to other industries.
 8. Finally, a table showing name, industry, founded, city, workers, Rev_final, growth% were displayed to give an overall
 insight. Web Url's of respective companies were also added.
 
-### A glimpse of the dashboard:
+### A Glimpse of the Dashboard:
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/75041273/133970780-226a7d2b-3ccb-4625-b293-bc20b36ffb1e.png)
+
+### Tech Stack:
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/> 
+
