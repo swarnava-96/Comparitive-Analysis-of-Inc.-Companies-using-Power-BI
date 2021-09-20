@@ -43,7 +43,7 @@ highest revenue compared to other industries.
 8. Finally, a table showing name, industry, founded, city, workers, Rev_final, growth% were displayed to give an overall
 insight. Web Url's of respective companies were also added.
 
-## Installation:
+### Installation:
 
 The following steps will guide you to install Power BI Desktop and run the project at your local machine:
 
