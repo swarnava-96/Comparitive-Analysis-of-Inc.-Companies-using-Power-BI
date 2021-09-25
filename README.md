@@ -1,7 +1,7 @@
 # Comparitive-Analysis-of-Inc.-Companies-using-Power-BI
 
 
-### Aim: To perform a comparitive analysis of different inc. companies with the help of Power BI.
+### Aim: To perform a comparative analysis of different Inc. companies with the help of Power BI.
 
 ### About the Data set: 
 The data set (Inc 5000 Companies_Dataset) contains informations of 5000 inc. companies and contains features like rank, profile, name, url, state, revenue,etc.
